@@ -9,7 +9,7 @@ package prgitejemplo;
  * @author bertoa
  */
 public class GitAux {
-    
+    //Comentario de prueba
     public void metodoAlumno1(){
         System.out.println("metodo 1");
     }
